@@ -3,7 +3,11 @@
 using namespace std;
 
 int main() {
-	cout << "Hello World1";
+	cout << "Hello World\n";
+	cout << "Hi\n";
+	cout << "Hiiii\n";
+	for (int i = 0; i < 10; i++)
+		cout << i + 1;
 	return 0;
 
 }
