@@ -4,10 +4,6 @@ using namespace std;
 
 int main() {
 	cout << "Hello World\n";
-	cout << "Hi\n";
-	cout << "Hiiii\n";
-	for (int i = 0; i < 10; i++)
-		cout << i + 1 << endl;
 	return 0;
 
 }
