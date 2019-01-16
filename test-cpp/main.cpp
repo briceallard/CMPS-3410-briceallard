@@ -1,8 +1,7 @@
 #include <iostream>
 
 using namespace std;
-vsfjkasdfjoid printNumbers(int);
-kdsfj
+void printNumbers(int);
 int main() {
 	cout << "Hello World\n";
 	printNumbers(10);
