@@ -3,13 +3,12 @@
 using namespace std;
 void printNumbers(int);
 int main() {
-	cout << "Hello World\n";
-	printNumbers(10);
-	cout << "-----------------------------\n20 23.22341\n";
-	cout << "------------------------\n";
-	cout << "The answer is: 9\n";
-	cout << "------------------\n\n\n\n\n";
+	cout << "Enter 2 numbers separated by a space: ";
+	int x, y;
+	cin >> x >> y;
+	cout << "The answer is " << x * y << endl;
 	return 0;
+
 
 }
 void printNumbers(int max) 
