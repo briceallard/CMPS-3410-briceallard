@@ -3,11 +3,14 @@
 using namespace std;
 void printNumbers(int);
 int main() {
-	cout << "Enter 2 numbers separated by a space: ";
-	int x, y;
-	cin >> x >> y;
-	cout << "The answer is " << x * y << endl;
+
+	for (int x = 1; x < 10; x++) {
+		cout << x << endl;
+
+	}
+	
 	return 0;
+
 
 
 }
