@@ -12,7 +12,7 @@ int main() {
 	return 0;
 
 
-
+fjs
 }
 void printNumbers(int max) 
 {
