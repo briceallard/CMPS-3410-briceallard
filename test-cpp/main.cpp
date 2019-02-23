@@ -5,8 +5,7 @@ void printNumbers(int);
 int main() {
 
 	for (int x = 1; x < 10; x++) {
-		cout << x << endl;
-		cout << x + 1;
+		cout << x << endl
 	}
 	
 	return 0;
