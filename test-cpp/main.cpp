@@ -8,7 +8,7 @@ int main() {
 		cout << x << endl;
 		cout << x + 1 << endl;
 	}
-	
+	printNumbers(5);	
 	return 0;
 
 
