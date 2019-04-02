@@ -9,6 +9,7 @@ int main() {
 		cout << x + 1 << endl;
 	}
 //	printNumbers(5);	
+	cout << "Testng spaces     python trimming";
 	return 0;
 
 
