@@ -8,7 +8,7 @@ int main() {
 		cout << x << endl;
 		cout << x + 1 << endl;
 	}
-	printNumber(8);	
+	printNumbers(8);	
 	cout << "Testng spaces     python trimming";
 	return 0;
 
